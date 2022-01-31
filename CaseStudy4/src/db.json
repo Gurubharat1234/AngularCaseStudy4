@@ -1,0 +1,23 @@
+{
+  "posts": [
+    
+    {
+      "fullName": "wad",
+      "email": "gurubharat789@gmail.com",
+      "password": "Bharat@123",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "fullName": "malepati",
+      "email": "bharat@gmail.com",
+      "password": "dfafd",
+      "role": "admin",
+      "id": 3
+    }
+  ]
+}
+
+
+
+
